@@ -28,5 +28,4 @@ Includes visualization of:
 
 ## Author
 Faranak Rajabi  
-University of California, Santa Barbara  
-Department of Mechanical Engineering
+
